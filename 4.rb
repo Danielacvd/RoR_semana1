@@ -5,7 +5,7 @@ class Dog
     end
 
     def ladrar
-        puts "#{@lala} esta maullando!"
+        puts "#{@lala} está ladrando!"
     end
 end
 
